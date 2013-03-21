@@ -42,7 +42,7 @@ public class BinarSok {
         }else{
             System.out.println("Talet finns i element nummer "+pos);
         }
-        
+        System.out.println("wTjuelol");
         
     }//end main
 }//End class
